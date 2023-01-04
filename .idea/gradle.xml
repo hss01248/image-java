@@ -8,6 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/compress" />
+            <option value="$PROJECT_DIR$/jpeg-quality" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -1,3 +1,4 @@
 rootProject.name = 'image'
 include 'compress'
+include 'jpeg-quality'
 
